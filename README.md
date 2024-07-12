@@ -11,7 +11,7 @@
 ## Installation
 
 To use the package without installing globally, use:
-
+### Quick use
 ```sh
 npx create-html-webapp <app-name>
 ```
