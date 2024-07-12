@@ -1,5 +1,3 @@
----
-
 # Create HTML App
 
 `create-html-webapp` is a simple Node.js CLI tool to scaffold a basic HTML app structure.
@@ -42,7 +40,7 @@ create-html-webapp my-html-app
 
 This will generate the following structure:
 
-```
+```html
 my-app/
 ├── css/
 │   └── style.css
@@ -56,4 +54,3 @@ my-app/
 ├── .gitignore
 └── README.md
 ```
----
