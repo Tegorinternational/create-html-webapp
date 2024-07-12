@@ -1,0 +1,21 @@
+{
+  "name": "create-html-webapp",
+  "version": "1.0.3",
+  "description": "A tool to create a new HTML app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-html-webapp": "index.js"
+  },
+  "keywords": [],
+  "author": "rurendrategor",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "inquirer": "^10.0.1",
+    "prompts": "^2.4.2",
+    "readline": "^1.3.0"
+  }
+}
